@@ -1,9 +1,9 @@
 # Gabriel-Felipe-Perissatto
 Hello, I'm Gabriel! I'm an Informática student at UEM
 
-🤖 I'm constantly learning Python and making projects with it
+🤖 I'm constantly learning Python, Golang, TypeScript and making projects with it
 
-💻 Recently, I'm learning Gleam, a functional language
+💻 Recently, I'm learning React
 
 😁 I look for projects to learn and collaborate
 
